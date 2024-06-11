@@ -7,7 +7,7 @@
         "Versions": [
             {
                 "Version": "1.0.0",
-                "Url": "",
+                "Url": "https://github.com/itsoctotv/micro-resize/archive/refs/tags/1.0.0.zip",
                 "Require": {
                     "micro": ">=2.0.0-1"
                 }
