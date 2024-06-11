@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "resize",
+          "Description": "Resize splits with keyboard shortcuts",
+          "Tags"; ["resize", "resize-split"],
+        "Website": "",
+        "Versions": [
+            {
+                "Version": "1.0.0",
+                "Url": "",
+                "Require": {
+                    "micro": ">=2.0.0-1"
+                }
+            }
+        ]
+    }
+]
