@@ -1,6 +1,6 @@
 # Resize splits with keyboard shortcuts
 
-This plugin lets you resize VSplits and HSplits with your keyboard/keybindings. 
+This plugin lets you resize VSplits and HSplits with your keyboard/keybindings.   
 Original code from [serge-v](https://github.com/zyedidia/micro/issues/1807?notification_referrer_id=MDE4Ok5vdGlmaWNhdGlvblRocmVhZDEwNDYwNTg1MTI6NTk1Mjg1MTg%3D#issuecomment-949271218).  
 
 Extended by [octo](https://github.com/zyedidia/micro/issues/1807?notification_referrer_id=MDE4Ok5vdGlmaWNhdGlvblRocmVhZDEwNDYwNTg1MTI6NTk1Mjg1MTg%3D#issuecomment-1907899274)  
