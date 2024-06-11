@@ -3,7 +3,7 @@
         "Name": "resize",
           "Description": "Resize splits with keyboard shortcuts",
           "Tags": ["resize", "resize-split"],
-        "Website": "",
+        "Website": "https://github.com/itsoctotv/micro-resize",
         "Versions": [
             {
                 "Version": "1.0.0",
