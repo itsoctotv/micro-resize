@@ -2,7 +2,7 @@
     {
         "Name": "resize",
           "Description": "Resize splits with keyboard shortcuts",
-          "Tags"; ["resize", "resize-split"],
+          "Tags": ["resize", "resize-split"],
         "Website": "",
         "Versions": [
             {
