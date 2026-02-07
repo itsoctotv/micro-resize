@@ -6,10 +6,10 @@
         "Website": "https://github.com/itsoctotv/micro-resize",
         "Versions": [
             {
-                "Version": "1.0.0",
-                "Url": "https://github.com/itsoctotv/micro-resize/archive/refs/tags/1.0.0.zip",
+                "Version": "1.0.1",
+                "Url": "https://github.com/itsoctotv/micro-resize/archive/refs/tags/1.0.1.zip",
                 "Require": {
-                    "micro": ">=2.0.0-1"
+                    "micro": ">=2.0.10"
                 }
             }
         ]

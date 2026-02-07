@@ -19,6 +19,6 @@ Originated from [this](https://github.com/zyedidia/micro/issues/1807?notificatio
 
 
 ### Known issues:  
-- When fully resizing to the left micro crashes with a `makeslice: cap out of range` error but it also crashes when resizing with mouse pointer    
+- ~~When fully resizing to the left micro crashes with a `makeslice: cap out of range` error but it also crashes when resizing with mouse pointer~~    
 - When fully resizing to the top it kind of goes out of the micro border
 - Doesn't really work with vsplit and hsplit in one window   

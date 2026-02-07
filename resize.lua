@@ -27,23 +27,25 @@ function init()
 end
 
 function resizeX(bp, n)
-        local tab = bp:Tab()
+        --[[local tab = bp:Tab()
         if #tab.Panes < 2 then
                 return
         end
         local id = tab.Panes[2]:ID()
         local node = tab:GetNode(id)
-        tab.Panes[2]:ResizePane(node.X + n)
+        
+        tab.Panes[2]:ResizePane(node.X + n) ]]--
+        CurPane():ResizePane(node.X + n)
 end
 
 function resizeY(bp, n)
-        local tab = bp:Tab()
+        --[[local tab = bp:Tab()
         if #tab.Panes < 2 then
                 return
         end
         local id = tab.Panes[2]:ID()
-        local node = tab:GetNode(id)
-        tab.Panes[2]:ResizePane(node.Y + n)
+        local node = tab:GetNode(id)]]--
+        CurPane():ResizePane(node.Y + n)
 end
 
 function paneGrowX(bp)
